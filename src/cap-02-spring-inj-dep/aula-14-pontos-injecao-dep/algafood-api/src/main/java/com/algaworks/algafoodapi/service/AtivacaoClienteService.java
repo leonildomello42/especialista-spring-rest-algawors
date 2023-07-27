@@ -8,7 +8,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class AtivacaoClienteService {
 
-    //Segundo ponto de insjecao
+    //Segundo ponto de injecao
+    @Autowired
     private Notificador notificador;
 
     //1 - ponto de injecao construtor
