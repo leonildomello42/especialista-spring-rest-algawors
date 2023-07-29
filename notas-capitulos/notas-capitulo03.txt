@@ -12,8 +12,3 @@
 -- Livro: https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651
 -- 
 
-
-
-
-
-
